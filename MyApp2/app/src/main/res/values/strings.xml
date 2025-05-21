@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cignifi</string>
+    <string name="app_logo">Cignifi Logo</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+</resources>

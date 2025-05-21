@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApp2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MyApp2" parent="Base.Theme.MyApp2" />
+
+        <!-- Base application theme. -->
+        <style name="Theme.CignifiApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+            <!-- Primary brand color. -->
+            <item name="colorPrimary">@color/blue_primary</item>
+            <item name="colorPrimaryVariant">@color/blue_primary</item>
+            <item name="colorOnPrimary">@color/white</item>
+            <!-- Status bar color. -->
+            <item name="android:statusBarColor" tools:targetApi="l">@color/white</item>
+            <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+            <!-- Customize your theme here. -->
+        </style>
+
+</resources>
